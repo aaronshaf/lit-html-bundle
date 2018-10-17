@@ -10,7 +10,7 @@
     "lit-html.min.js"
   ],
   "dependencies": {
-    "dem": "^0.0.3",
+    "@aaronshaf/dem": "^2.1.0",
     "got": "^9.2.2"
   },
   "scripts": {
