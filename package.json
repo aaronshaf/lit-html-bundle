@@ -1,6 +1,6 @@
 {
   "name": "lit-html-bundle",
-  "version": "0.12.0beta",
+  "version": "0.12.0beta2",
   "description": "Bundled and minified distribution of lit-html",
   "main": "lit-html.min.js",
   "repository": "https://github.com/aaronshaf/lit-html-bundle.git",
@@ -14,6 +14,6 @@
     "got": "^9.2.2"
   },
   "scripts": {
-    "build": "dem https://unpkg.com/lit-html/lit-html.js -b lit-html.min.js"
+    "build": "node ./set-version.js && dem https://unpkg.com/lit-html/lit-html.js -b lit-html.min.js"
   }
 }
