@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aaronshaf/dem@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@aaronshaf/dem/-/dem-2.1.0.tgz#66b65e0d8ea011a356986efdacb937bd304f6b8b"
-  integrity sha512-j3u01Oc1Cjr6mjpd+ih744wRucv/No8Jthw35Ia5hBKNgj9v2yc1ETNYr1jxZiTJ4jUW7Yyd81g+P9kOeSH6Vw==
+"@aaronshaf/dem@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@aaronshaf/dem/-/dem-2.1.1.tgz#646b62e9f0bab290acc14992da10b45be726878b"
+  integrity sha512-A2MXVnDpIJP41QRIM0oqyhzGQHCOwsaupi6G7AYBHLGwIXjDeybXieeyxnzG+aO1Uza4/UpBo3lY8jr5TDlwxA==
   dependencies:
     acorn "^6.0.2"
     babel-minify "^0.5.0"
