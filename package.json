@@ -3,6 +3,7 @@
   "version": "0.12.0",
   "description": "Bundled and minified distribution of lit-html",
   "main": "lit-html.min.js",
+  "module": "lit-html.min.js",
   "repository": "https://github.com/aaronshaf/lit-html-bundle.git",
   "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
   "license": "MIT",
